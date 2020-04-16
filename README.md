@@ -19,6 +19,4 @@ Software Tools: TensorFlow, Keras, Python 3.5.6 (Anaconda) (64-bit), jupyter-not
 
 Hardware Tools: PC
 
-Project Implementation:
-
-
+Project Implementation: Refer the project document in the repository
